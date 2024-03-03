@@ -1,0 +1,1 @@
+# Explicación ejercicio Git SQUASH
