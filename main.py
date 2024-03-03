@@ -2,7 +2,7 @@
 
 def __main__():
     print("Buenisimos dias!\n"
-          "Cuarto commit")
+          "Cuinto commit")
 
 
 __main__()
